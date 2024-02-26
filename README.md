@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center"> Hello, 👋 This is Satheeshkumar Subramanian </h1>
-------
-## 🚀 About Me
 
+
+<h3 align="center"> ## 🚀 About Me </h3>
+<p align="center">
 - 🔭 I’m currently working on Backend Development and Javascript.
-- 🌱 I’m diving deep into **Web and Backend Development*
+- 🌱 I’m diving deep into **Web and Backend Development* </p>
 
 
 ---
