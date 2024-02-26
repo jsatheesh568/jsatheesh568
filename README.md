@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/satheeshkumar18?width=500&height=500)
-
-![](https://leetcard.jacoblin.cool/satheeshkumar18?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/satheeshkumar18)
