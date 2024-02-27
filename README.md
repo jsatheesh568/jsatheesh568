@@ -39,3 +39,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 -------
 ![Leetcode Stats](https://leetcard.jacoblin.cool/satheeshkumar18)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsatheesh568&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsatheesh568&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsatheesh568&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jsatheesh568&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</p>
