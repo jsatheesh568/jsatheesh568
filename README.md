@@ -8,7 +8,7 @@
 <h3 align="center"> ## 🚀 About Me </h3>
 <p align="center">
 - 🔭 I’m currently working on Backend Development and Javascript.
-- 🌱 I’m diving deep into **Web and Backend Development* </p>
+- 🌱 I’m diving deep into Web and Backend Development</p>
 
 
 ---
