@@ -5,10 +5,13 @@
 <h1 align="center"> Hello, 👋 This is Satheeshkumar Subramanian </h1>
 
 
-<h3 align="center"> ## 🚀 About Me </h3>
+<h3 align="center">🚀 About Me</h3>
 <p align="center">
-- 🔭 I’m currently working on Backend Development and Javascript.
-- 🌱 I’m diving deep into Web and Backend Development</p>
+  - 🔭 I’m currently working on Backend Development and Javascript.<br>
+  - 🌱 I’m diving deep into Web and Backend Development.<br>
+  - 🌱 We are proud to announce our investment in the [Smile Wide blog](https://smile-wide.co.in/), maintained for dental-related cares and queries.<br>
+</p>
+
 
 
 ---
