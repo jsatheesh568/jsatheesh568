@@ -46,7 +46,7 @@
 -------
 ![Leetcode Stats](https://leetcard.jacoblin.cool/satheeshkumar18)
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=satheeshkumar18&theme=dark&border=border)`
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=satheeshkumar18&theme=dark&border=border)
 
 
 
