@@ -7,7 +7,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  - 🔭 I’m currently working on Java, Springboot , Microservices Development with React Js , Python ,GenAI Architect<br>
+  - 🔭 I’m currently working on Java, Springboot , Microservices Development with React Js , Python ,GenAI strategist<br>
   - 🌱 I’m diving deep into Web and Backend Development.<br>
   - 🌱 I'm proud to announce my investment in the  <a href="https://smile-wide.co.in/">Smile Wide blog</a>, which is maintained for dental-related cares and queries.<br>
 
